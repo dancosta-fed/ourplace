@@ -13,6 +13,7 @@ import Galeria from './Galeria';
 const theme = {
   colors: {
     primary: '#AD4226',
+    primaryHover: 'rgba(173, 66, 38, .8)',
     darkPrimary: '#1B6270',
     white: '#FFFFFF',
     darkHover: 'rgba(27, 98, 112, 0.8)',
